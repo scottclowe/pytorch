@@ -32,7 +32,7 @@ pip uninstall torch # run this command twice
 2. Clone a copy of PyTorch from source:
 
 ```bash
-git clone https://github.com/pytorch/pytorch
+git clone --recursive https://github.com/pytorch/pytorch
 cd pytorch
 ```
 
